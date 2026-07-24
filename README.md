@@ -143,6 +143,11 @@ Colaboración en una adaptación de Super Mario desarrollada con Unity y C#. Par
 - **Inteligencia Artificial y Agentforce** — Iberoamerican Technology Foundation y Salesforce (aprox. 20 horas).
 - **Desarrollo con IA: Programa con Agentes** — BIG school / MoureDev.
 - **Ciberseguridad y Hacking Ético** — BIG school (6 horas, abril de 2026).
+- **Fundamentos de ChatGPT** — Open Academy (8 horas, junio de 2025).
+- **Reglas de la IA: cómo usarla sin correr riesgos legales** — Open Academy (8 horas, diciembre de 2025).
+- **MySQL desde 0 hasta Supabase: domina las bases de datos** — Udemy.
+- **Programación en C de cero a experto con estructuras de datos** — Udemy.
+- **CCNA: Introduction to Networks** — Cisco Networking Academy.
 
 ---
 
