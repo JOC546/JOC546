@@ -2,29 +2,29 @@
 
   <img
     src="./assets/banner.png"
-    alt="Banner de José Juan García Jiménez, estudiante de Ingeniería en Sistemas Computacionales y desarrollador de soluciones digitales"
+    alt="Banner of José Juan García Jiménez, Computer Systems Engineering student and developer of digital solutions"
     width="100%"
   />
 
   <h1>José Juan García Jiménez</h1>
 
   <p>
-    <strong>Ingeniería de software, bases de datos y productos digitales construidos para resolver problemas reales.</strong>
+    <strong>Software engineering, databases, and digital products built to solve real problems.</strong>
   </p>
 
   <p>
-    Estudiante de Ingeniería en Sistemas Computacionales · Desarrollador de software · Entusiasta de la inteligencia artificial
+    Computer Systems Engineering student · Software developer · Artificial intelligence enthusiast
   </p>
 
   <p>
     <a href="https://github.com/JOC546">
-      <img src="https://img.shields.io/badge/GitHub-JOC546-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Perfil de GitHub de JOC546" />
+      <img src="https://img.shields.io/badge/GitHub-JOC546-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="JOC546's GitHub profile" />
     </a>
     <a href="https://www.linkedin.com/in/jos%C3%A9-juan-garc%C3%ADa-jim%C3%A9nez-328b8224a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-      <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Perfil de LinkedIn de José Juan García Jiménez" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="José Juan García Jiménez's LinkedIn profile" />
     </a>
     <a href="mailto:jose_juan0405@live.com">
-      <img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Enviar correo a José Juan García Jiménez" />
+      <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send an email to José Juan García Jiménez" />
     </a>
   </p>
 
@@ -32,142 +32,142 @@
 
 ---
 
-## Perfil profesional
+## Professional profile
 
-Diseño y desarrollo soluciones que conectan interfaces, lógica de negocio, bases de datos y automatización.
+I design and develop solutions that connect interfaces, business logic, databases, and automation.
 
-Mi experiencia académica y práctica incluye aplicaciones web, sistemas de escritorio, plataformas empresariales, seguridad de comunicaciones, administración de datos, redes y desarrollo de videojuegos. Me interesa especialmente convertir necesidades operativas en productos que puedan utilizarse, adaptarse y evolucionar.
+My academic and practical experience includes web applications, desktop systems, enterprise platforms, communications security, data management, networks, and video game development. I am especially interested in turning operational needs into products that can be used, adapted, and evolved.
 
-Actualmente curso **Ingeniería en Sistemas Computacionales** y continúo fortaleciendo mis conocimientos en arquitectura de software, inteligencia artificial, desarrollo full stack, seguridad y despliegue de aplicaciones.
+I am currently pursuing a **Computer Systems Engineering** degree and continue strengthening my knowledge of software architecture, artificial intelligence, full-stack development, security, and application deployment.
 
-### En lo que estoy trabajando
+### What I'm working on
 
-- Colaboración en **SkillSync**, una plataforma de entrenamiento mediante retos y proyectos basados en situaciones reales de empresas.
-- Desarrollo y evolución de **Slate Terminal**, un punto de venta local-first adaptable a distintos giros comerciales.
-- Desarrollo de **Intranext Chat**, una plataforma de comunicación empresarial segura.
-- Exploración de herramientas y flujos de trabajo asistidos por inteligencia artificial.
-- Inicio en el uso de agentes de IA para programación, Codex, OpenCode y modelos locales.
-- Construcción de aplicaciones con interfaces modernas, servicios backend y persistencia de datos.
-- Fortalecimiento de conocimientos en redes, seguridad, bases de datos y distribución de aplicaciones.
+- Collaborating on **SkillSync**, a training platform that uses challenges and projects based on real-world business scenarios.
+- Developing and evolving **Slate Terminal**, a local-first point-of-sale system adaptable to different types of businesses.
+- Developing **Intranext Chat**, a secure enterprise communication platform.
+- Exploring artificial intelligence-assisted tools and workflows.
+- Beginning to use AI coding agents, Codex, OpenCode, and local models.
+- Building applications with modern interfaces, backend services, and data persistence.
+- Strengthening my knowledge of networks, security, databases, and application distribution.
 
 ---
 
-## Enfoque técnico
+## Technical approach
 
 ```text
-Necesidad real
+Real need
      ↓
-Análisis del proceso
+Process analysis
      ↓
-Diseño de interfaz y arquitectura
+Interface and architecture design
      ↓
-Desarrollo frontend + backend
+Frontend + backend development
      ↓
-Persistencia, seguridad y pruebas
+Persistence, security, and testing
      ↓
-Producto funcional y adaptable
+Functional and adaptable product
 ```
 
-Mis principales áreas de interés son:
+My main areas of interest are:
 
-- Desarrollo de aplicaciones web y de escritorio.
-- Diseño e integración de bases de datos.
-- APIs y lógica de negocio.
-- Seguridad y cifrado de comunicaciones.
-- Sistemas empresariales y herramientas internas.
-- Contenedores y distribución de aplicaciones.
-- Inteligencia artificial aplicada al desarrollo.
-- Redes y comunicación entre sistemas.
-- Desarrollo de experiencias interactivas con Unity.
+- Web and desktop application development.
+- Database design and integration.
+- APIs and business logic.
+- Communications security and encryption.
+- Enterprise systems and internal tools.
+- Containers and application distribution.
+- Artificial intelligence applied to development.
+- Networks and communication between systems.
+- Development of interactive experiences with Unity.
 
 ---
 
-## Tecnologías y herramientas
+## Technologies and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,react,vite,html,css,tailwind,nodejs,electron,express,fastapi,postgres,mysql,mongodb,sqlite,redis,docker,git,github,figma,vscode,postman,unity,blender&theme=dark" alt="Tecnologías y herramientas de José Juan García Jiménez" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cs,react,vite,html,css,tailwind,nodejs,electron,express,fastapi,postgres,mysql,mongodb,sqlite,redis,docker,git,github,figma,vscode,postman,unity,blender&theme=dark" alt="José Juan García Jiménez's technologies and tools" />
 </p>
 
-También trabajo con SQL Server, modelado de datos, WebSocket, APIs REST, Docker Compose, pruebas de rendimiento de bases de datos y flujos de desarrollo asistidos por inteligencia artificial.
+I also work with SQL Server, data modeling, WebSocket, REST APIs, Docker Compose, database performance testing, and artificial intelligence-assisted development workflows.
 
 ---
 
-## Proyectos destacados
+## Featured projects
 
 ### SkillSync
 
-Plataforma de entrenamiento basada en retos y proyectos reales de empresas. Colaboré de forma transversal en frontend, backend, bases de datos e implementación de inteligencia artificial para acercar el aprendizaje técnico a situaciones profesionales.
+A training platform based on real-world business challenges and projects. I collaborated across frontend, backend, databases, and artificial intelligence implementation to bring technical learning closer to professional scenarios.
 
-Su arquitectura integra React, HTML, CSS y JavaScript en la capa de presentación; una API REST en Python; PostgreSQL para datos estructurados y MongoDB para retos, configuraciones de pruebas y resultados de ejecución. La plataforma ejecuta entornos aislados con Docker, incorpora validación de código y pruebas, autenticación OAuth 2.0 con GitHub y comunicación en tiempo real mediante WebSocket Secure. También incorpora Gitea para alojar proyectos en repositorios locales.
+Its architecture integrates React, HTML, CSS, and JavaScript in the presentation layer; a REST API in Python; PostgreSQL for structured data; and MongoDB for challenges, test configurations, and execution results. The platform runs isolated environments with Docker, includes code validation and testing, OAuth 2.0 authentication with GitHub, and real-time communication through WebSocket Secure. It also incorporates Gitea to host projects in local repositories.
 
 ### Slate Terminal
 
-Punto de venta local-first de escritorio, desarrollado como proyecto propio. Está construido con React, Vite, Tailwind CSS, Node.js, Express, SQLite, WebSocket y Electron.
+A local-first desktop point-of-sale system developed as a personal project. It is built with React, Vite, Tailwind CSS, Node.js, Express, SQLite, WebSocket, and Electron.
 
-Permite gestionar productos, inventario, ventas, cancelaciones, clientes, créditos, turnos, movimientos de caja, usuarios, roles y reportes de Excel. La aplicación sincroniza terminales dentro de una red LAN mediante API REST y WebSocket, y se distribuye como instalador para Windows y paquete para Linux.
+It enables the management of products, inventory, sales, cancellations, customers, credit, shifts, cash movements, users, roles, and Excel reports. The application synchronizes terminals within a LAN through a REST API and WebSocket, and is distributed as a Windows installer and a Linux package.
 
 ### Intranext Chat
 
-Es un proyecto propio de comunicación empresarial segura. Integra React, TypeScript, Vite y Tailwind CSS en el cliente, y Node.js con Fastify, PostgreSQL, Redis y WebSocket en el servidor.
+It is a personal project for secure enterprise communication. It integrates React, TypeScript, Vite, and Tailwind CSS on the client, and Node.js with Fastify, PostgreSQL, Redis, and WebSocket on the server.
 
-Incluye autenticación con JWT, control de acceso por roles y organizaciones, canales, sesiones, rate limiting y auditoría. La protección de mensajes se plantea con cifrado de extremo a extremo desde el navegador mediante Web Crypto API, AES-GCM y ECDH P-256: las llaves privadas permanecen en el cliente y el servidor conserva únicamente contenido cifrado y metadatos mínimos.
+It includes JWT authentication, access control by roles and organizations, channels, sessions, rate limiting, and auditing. Message protection is designed around end-to-end encryption from the browser using the Web Crypto API, AES-GCM, and ECDH P-256: private keys remain on the client, and the server retains only encrypted content and minimal metadata.
 
-### Videojuego de plataformas 2.5D
+### 2.5D platform video game
 
-Colaboración en una adaptación de Super Mario desarrollada con Unity y C#. Participé en el diseño y construcción del nivel con Blender, así como en la programación e integración de mecánicas dentro de Unity.
-
----
-
-## Actualmente fortaleciendo
-
-- Arquitectura de software y desarrollo full stack.
-- Inteligencia artificial aplicada a ingeniería de software.
-- Agentes de programación y automatización.
-- Seguridad de aplicaciones, redes y sistemas distribuidos.
-- Diseño de bases de datos, pruebas y optimización.
-- Docker y entornos reproducibles.
-- Documentación técnica mantenible.
+Collaboration on a Super Mario adaptation developed with Unity and C#. I participated in the design and construction of the level with Blender, as well as in programming and integrating mechanics within Unity.
 
 ---
 
-## Idiomas
+## Currently strengthening
 
-- Español: nativo.
-- Inglés: nivel intermedio.
+- Software architecture and full-stack development.
+- Artificial intelligence applied to software engineering.
+- Coding and automation agents.
+- Application, network, and distributed-system security.
+- Database design, testing, and optimization.
+- Docker and reproducible environments.
+- Maintainable technical documentation.
 
 ---
 
-## Formación complementaria
+## Languages
 
-- **Introduction to Generative AI** — Google Cloud / Coursera (julio de 2026).
-- **Inteligencia Artificial y Agentforce** — Iberoamerican Technology Foundation y Salesforce (aprox. 20 horas).
-- **Desarrollo con IA: Programa con Agentes** — BIG school / MoureDev.
-- **Ciberseguridad y Hacking Ético** — BIG school (6 horas, abril de 2026).
-- **Fundamentos de ChatGPT** — Open Academy (8 horas, junio de 2025).
-- **Reglas de la IA: cómo usarla sin correr riesgos legales** — Open Academy (8 horas, diciembre de 2025).
-- **MySQL desde 0 hasta Supabase: domina las bases de datos** — Udemy.
-- **Programación en C de cero a experto con estructuras de datos** — Udemy.
+- Spanish: native.
+- English: intermediate level.
+
+---
+
+## Additional training
+
+- **Introduction to Generative AI** — Google Cloud / Coursera (July 2026).
+- **Artificial Intelligence and Agentforce** — Iberoamerican Technology Foundation and Salesforce (approximately 20 hours).
+- **AI Development: Program with Agents** — BIG school / MoureDev.
+- **Cybersecurity and Ethical Hacking** — BIG school (6 hours, April 2026).
+- **ChatGPT Fundamentals** — Open Academy (8 hours, June 2025).
+- **AI Rules: How to Use It Without Taking Legal Risks** — Open Academy (8 hours, December 2025).
+- **MySQL from Zero to Supabase: Master Databases** — Udemy.
+- **C Programming from Beginner to Expert with Data Structures** — Udemy.
 - **CCNA: Introduction to Networks** — Cisco Networking Academy.
 
 ---
 
-## Contacto
+## Contact
 
-Estoy abierto a colaborar en proyectos de desarrollo, herramientas empresariales, plataformas educativas, bases de datos, automatización e inteligencia artificial.
+I am open to collaborating on development projects, enterprise tools, educational platforms, databases, automation, and artificial intelligence.
 
 <p>
   <a href="mailto:jose_juan0405@live.com">
-    <img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Enviar correo a José Juan García Jiménez" />
+    <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send an email to José Juan García Jiménez" />
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-juan-garc%C3%ADa-jim%C3%A9nez-328b8224a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Conectar con José Juan García Jiménez en LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect with José Juan García Jiménez on LinkedIn" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <strong>Construyendo sistemas donde la interfaz, los datos y la lógica trabajan como una sola solución.</strong>
+  <strong>Building systems where the interface, data, and logic work as a single solution.</strong>
   <br />
-  <sub>José Juan García Jiménez · JOC546 · Ingeniería en Sistemas Computacionales</sub>
+  <sub>José Juan García Jiménez · JOC546 · Computer Systems Engineering</sub>
 </div>
