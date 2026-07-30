@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="./assets/banner.png"
+    src="./assets/banner1.png"
     alt="Banner of José Juan García Jiménez, Computer Systems Engineering student and developer of digital solutions"
     width="100%"
   />
