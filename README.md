@@ -23,6 +23,9 @@
     <a href="https://www.linkedin.com/in/jos%C3%A9-juan-garc%C3%ADa-jim%C3%A9nez-328b8224a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="José Juan García Jiménez's LinkedIn profile" />
     </a>
+    <a href="https://joc-portafolio.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Visit José Juan García Jiménez's portfolio" />
+    </a>
     <a href="mailto:jose_juan0405@live.com">
       <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send an email to José Juan García Jiménez" />
     </a>
@@ -161,6 +164,9 @@ I am open to collaborating on development projects, enterprise tools, educationa
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-juan-garc%C3%ADa-jim%C3%A9nez-328b8224a?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect with José Juan García Jiménez on LinkedIn" />
+  </a>
+  <a href="https://joc-portafolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Visit José Juan García Jiménez's portfolio" />
   </a>
 </p>
 
